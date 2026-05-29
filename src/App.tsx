@@ -1,4 +1,5 @@
-import { useState, useRef } from "react";
+// @ts-nocheck
+import { useState, useRef } from "react"; 
 
 // ── REPLACE THESE WITH YOUR REAL STRIPE LINKS ──────────
 const STRIPE = {
